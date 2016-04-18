@@ -8,4 +8,5 @@
       - http://www.gameart2d.com/
 - manuales:
           - [video](https://www.youtube.com/watch?v=0u-qvMVV6m4&list=PLREdURb87ks2qkD9svvlIwYwN35FZ3Afv)
+          
           - http://www.relaxate.com/tutorial-manuales-curso-documentacion-desarrollo-programacion-videojuegos-unity-2d-parte-1
