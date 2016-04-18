@@ -1,3 +1,3 @@
 # Ludica
 
-- Sprites Metal Slug(http://www.spriters-resource.com/arcade/ms3/)
+- Sprites Metal Slug (http://www.spriters-resource.com/arcade/ms3/)
