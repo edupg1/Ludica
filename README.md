@@ -6,6 +6,7 @@
       - https://vxresource.wordpress.com/category/resources/characters/page/2/
       - http://www.spriters-resource.com/
       - http://www.gameart2d.com/
+      - http://ia802601.us.archive.org/zipview.php?zip=/20/items/spritersresource_com-2011/spritersresource_com.zip
 - manuales:
           - [video](https://www.youtube.com/watch?v=0u-qvMVV6m4&list=PLREdURb87ks2qkD9svvlIwYwN35FZ3Afv)
           - [pagina](http://www.relaxate.com/tutorial-manuales-curso-documentacion-desarrollo-programacion-videojuegos-unity-2d-parte-1)
